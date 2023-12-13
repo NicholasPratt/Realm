@@ -1,0 +1,248 @@
+0450012300000000000000000
+2
+4
+7
+!"."."."."!""""""""""""""""""""""""""""""""""""""""""""
+!%.......$!""""" """"""""""""""""""""""""""""""""""""""
+"!%##@##$!"""""""""""""""""""""""""""" """"""""""."."."
+""!%. .$!"""""""""""""" """""""""""""""""""""""""".`.""
+"""!!#!!""""""""""""""""""""""""""""""""""""""""""...""
+"""!!#!!""""""""""""""""""""""""""" """""""!!.f.".....!
+"""!!#!!""""""""#""""""""""""""""""""""""""!!!!!!!!!!#!
+"!. .#. .!"""""###"""""" """"""""""""""""""""!!  ...!#!
+"!-!%#$!!!""""#####"""""""""$!!!%""""""""""""!! e... #!
+"""!!#!!"""""###.##."""""""$!   !%"""""""""""!! !!!!!#!
+""#  #!!..""..#....#."""""$!  `  !%""""""""""!! !   !#!
+".#!!#!!.............."""$! " " " !%.""..""".!! ! ` !#!
+. #!!#.&.................!  " " "  !.........!! !   !#!
+ #!!!#!!%................  d        .........        #}
+?#!!. .!!%  .....    ..$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!___!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+0
+0
+3
+d93;1 
+Shop - Popcorn Vendor
+3
+A hero! A real hero! Brave, Clever
+and not really known for having 
+much gold. If you had atleast
+1  gold I could sell you POPPEDCORN
+The wizards love this stuff.
+e9411 
+Castle Guard
+4
+Gaah! You scared me brah. I'm on high
+alert, ready for action at all times.
+I was just resting my eyes. See that 
+drop there, they call that the murder
+hole. I could do it brah, totally 100%
+f9591"
+Quest - Aspiring Wizard
+5
+I'm going to be a wizard
+They are not letting me 
+into the tower. Perhaps if I had a
+FlyingCERT I could get in!
+I'll swap you a GREENAPPLE
+ A wizards tower stands before the castle.
+  Smells of cooking food, livestock and people fill the air.
+"""""""""""".""""""""""""""""""""""""""""""""""""""""""
+!.".".".!""..."""!!!!!!!!!!!!!!!!!!!!"""""""""!.".".".!
+"!#!!!!!""""."""!! "  "  .. "  "    !!"""""""""!.   #!"
+"!# D E!.".".".".. "  ".." ..  " `  ..."."."."...   #!"
+"!#!!!!!...!!!!#!! " ..  "  ".."    !!!!!!!%%%!!!!!!#!"
+"!#   .....!   #!!i..          ..   !!      %  !.   #!"
+!!#   .!!!!!   #!!!!!%           ..h..   F   $!!G   #!"
+!!#!!!!!     #!!!!!!!!!!!###!!!!!!!!!!!!!!  $  !!!!!#!"
+!!    .!     #. ..      . ~ !       ...    $   !.   #!"
+!!  ` .!!!%..#  ..$!!%  !!!!! $!!!% .. .. $   C!.g  #!"
+!!         !!!!!!!!!!!%      $!!!!!!!!!!!!!!!!!!!!!!!!!
+!!    .. ..     ..     %    $       ..   ! ..  ..    !!
+!!    ...       .. $!!!!!!!!!!!!!!% ..   !   ....  ` !!
+{    ...  j     ..$!!!!!!!!!!!!!!!!%..   [A    ...   [}
+!!!!!!!!!!!!!!!!!!!!!!!!""""!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!""""""!!!!!!!!!!!!!!!!!!!!!!!!!!
+6A611.C121 D711 E712.F371 G811.
+111
+FROCK COAT
+4
+j9891 
+Quest - Royal Mail Service
+8
+Halt! What business have you in the
+castle? You are not from Goat Farm
+that much I can tell. I love the
+SOFTCHEESE so. For a taste I would
+let you deliver the ROYAL MAIL
+i9711.
+The King Of The Realm
+7
+Hero! Well met, once again I must
+call on you to replace the heart
+stones on the mountain and give
+new life to this ancient land.
+Met me on the farside of the castle.
+g1533 
+"Wrong part of castle!"
+h9611 
+Majordomo
+6
+You there! Skulking around the Kings
+castle. Totally unacceptable! Now grab
+a tray and start passing around some 
+drinks. So hard to get any sort of help.
+Always running off to be wizards... 
+    An old part of the Castle, the hall of the king.
+        Everything is worn, meant for business or war.
+""""""""""""$!!!!!!!!!!!!!!!%""""""""""""""""""""""""""
+"""%".".".$..""..""I!!..""..!%"!.#.".!"""""""""!K".!"""
+"""!!!!!#!!!!!!!!!!!!!...........#!!!!"""""""""!!!!!"""
+""""!!!!#......`....!!!!!!!!!!!!!# !!"""""""""""...""""
+"""""!!!#! .      . !!.      .  !#"!!""""""""!"...".".!
+"""%"!! #!!!!!!!%.  !! .  ` .   !#"!!""""""""!!!!!#!!!!
+"""!!!!!#!   .  .%  !!  .  .    !# !!."."."."..!!"#!"""
+"""""!! #.    ..  $!!!   ..     !# !!..........!! #!%""
+.".".!!!#!!!!!!!!!!!!!% $!!!!!!!!#!!!..........!!"#!"%"
+.....!. #.   .! .   !! %.  .    .# !!...$&&&&%..! #!"!%
+....... #.  . !L .  .. .%   .   .# ....$......%.. #!.!!
+....$!!!#!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!! . . . !!!#!!!!
+...$!.. #....    .......  `  ....# .. !!   ~   !! #  .!
+{.$!!.. #.....   .. ....    .....# .. !!  !!!  !! #  a!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!_______!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"""""""!!!!!!!!
+3I951.K631.L621 
+0
+1
+a90:0.
+Quest - Drawbridge Operator
+0
+You look like a magic man. My brother
+was a magic man. Always smelling of 
+elderberry. He stole my
+FISHINGROD I mean what a jerk. I'd 
+catch us a nice fish in the moat there.
+         THREE
+         THREE
+""""""""""""""$%"""""""""""""""""""""""""""""""""""""""
+""""`""""""""$!!%"""""""""""""""""""`""""""""""""""""""
+!.".".".!"""$!  !%""""""""""""""!.".".".!""""""""""""""
+"!!!!!!!"""$!!J !!%""""""""""""""!!!!!!!"""""""""""""""
+". "" !!""""!!!]!!"""""""""""""""!! "" ."""""""""""""""
+!!    .#"."."!!#!."."."."."."."."..    $!""""""""""""""
+!! !!!!#!!!!%..#!!!!....|$!!!%..#!!!!!!!!""""""""""""""
+!! "" .#!!!!!!!!!  !!!!!!!   %$!#!. "" !!""""""""""""""
+!!    .#     ....            $!!#..   l!!""!!.".!!"."."
+!!    ..     ...$!!%%!!!!!!!!!!!#!!!!!!!!"""! ..!  .!!!
+!!!!!!!!!!!!!!!!!!!!%  ! """ !!!#.. "" !!%""!  .!   !.!
+!!    !!!!!!!!!!!!!!!% \     !!!#..    !!!""!   !!!.!.!
+!! ". !!  `  ....     $!%   k!!! !!!!!!!!!"!!    ...! !
+!!  ..!!     ....    $!!!!!!!!!. ..    ..."!|      .! !
+!!  ..!!B c  ....   $        ..%!!!!!!!!!!!!!!!!!!!!! !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2B801 J951 
+100
+MAGAZINE  
+3
+l9:<1 
+Shop - Armourer
+:
+I make armour for all the kings soldiers.
+I use bits and pieces I find or can buy.
+I'll pay lots of gold for
+BEETLEWING It makes the strongest
+armour, I can pay 10 
+k9991 
+Quest - Squire Of Goat Manor
+9
+Oh my love, why must my father send me
+here? I miss her so much and they have 
+locked me up becasue I don't have my
+SignetRING Bring it to me and I will give 
+a present meant for the King, A BLUE HEART
+c9291 
+Quest - Queen of the Realm
+2
+Oh hello, I've expect you've 
+come to rob me, again. Well
+just go ahead. I could use a
+CREAMPIE  .That would be tasty.
+After you can read my MAGAZINE  
+       The castle is here is finer, more luxurious.
+          Servants scurry to and fro. Soft music plays.
+""""""""""""""""""""""""""""""""""#####"""###""""""""""
+"..""."."."."."."."".".".""""""""#######"######""""""""
+....""...""".....""""...""""""""####.#####.#.##H#""""""
+"..""..................."""""""####.##"".##.######"""""
+. ."..!. . .!...........".".".""####.#....#####""""""""
+.......!#!!!.............""..."""$%""##...###""""""""""
+.......!#  !..................""!  !"""".."""""""""""""
+.......[#  [.................."" b  """....""""""""""""
+!!%$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!.%.!!!!!!!...!!!!!!!...!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!...$.!!`!!  ...!!`!!...   !!`!!!!!!!!!   ...!!!!!!!!!!
+! .$.  !.! !. .  !.!  . !.! !.! !.! .      .      !!!!!
+. %..  ... .! .  ...  . .!. ... .!. $!!#%  .  $%  .!!!!
+. .%.  ... !. .  ...  . !.! ... !. $!| #!!!!!!!!% .!!!!
+. ..%  ... .  .  ...  . . . ...   $!!!!!"""."""!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!_______!!!!!!!!
+1H821.
+122
+CREAMPIE  
+1
+b9111 
+Quest - Artisanal Producer
+1
+I make a cheese that really speaks of
+place. For example, bat guano from the 
+tree really adds piquant notes. Bring me a
+MAGAZINE  There's a spread on local produce. 
+Then you can have HARDCHEESE
+        Every footstep echoes off dripping walls. 
+          Above a gargantuan tree dwarfs the castle towers.
+5
+231
+255
+145
+255
+197
+255
+145
+255
+255
+130
+102
+67
+229
+152
+60
+84
+124
+198
+138
+56
+56
+16
+56
+84
+84
+40
+108
+130
+56
+56
+16
+56
+84
+84
+40
+108
+139
+219
+165
+137
+82
+98
+36
+24
+195
